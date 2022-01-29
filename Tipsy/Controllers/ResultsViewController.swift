@@ -10,6 +10,7 @@ import UIKit
 
 class ResultsViewController: UIViewController {
 
+    
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var settingsLabel: UILabel!
     
